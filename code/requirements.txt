@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.51.0
 pydantic
 pydantic-ai
 sqlalchemy
@@ -6,3 +6,4 @@ psycopg2-binary
 requests
 httpx
 pydantic-ai
+protobuf<7
